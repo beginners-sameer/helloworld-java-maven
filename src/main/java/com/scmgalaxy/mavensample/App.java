@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World RefX! BEG-2 --d" );
+        System.out.println( "Hello World modifcation" );
     }
 }
