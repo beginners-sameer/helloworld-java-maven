@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.scmgalaxy.mavensample","c":"App","l":"App()","url":"%3Cinit%3E()"},{"p":"com.scmgalaxy.mavensample","c":"App","l":"main(String[])","url":"main(java.lang.String[])"}]
